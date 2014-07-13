@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Usage: grep.py searchstring filename
+
 import sys
 
 str = sys.argv[1]
